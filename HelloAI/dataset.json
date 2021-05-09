@@ -1,0 +1,141 @@
+{
+  "dataset": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "hi",
+        "hii",
+        "Hii",
+        "Morning!",
+        "Evening",
+        "afternoon",
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "Hello",
+        "How are you?",
+        "how are things?",
+        "how's its going",
+        "yo!",
+        "What's happening?",
+        "What's happen?",
+        "hey!",
+        "Hey there!",
+        "greetings",
+        "Is anyone there?",
+        "how are you?",
+        "what's up?",
+        "what's up buddy?"
+      ],
+      "responses": [
+        "Hello!",
+        "Good to see you again!",
+        "Great to hear from you!",
+        "i appreciate your quick response",
+        "Hi there, how can i help?"
+      ],
+      "context_sets": ""
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "GoodBye",
+        "Bye",
+        "Bye-Bye",
+        "Quit",
+        "stop",
+        "end",
+        "adios",
+        "bbye",
+        "Talk to you later",
+        "i go to go"
+      ],
+      "responses": [
+        "bye",
+        "Have a nice day ahead",
+        "have a great day",
+        "sad to see you go",
+        "Talk to you later",
+        "Good Bye",
+        "i am always here to talk to you",
+        "see you soon!!"
+      ],
+      "context_sets": ""
+    },
+    {
+      "tag": "calender",
+      "patterns": [
+        "time",
+        "date",
+        "what is current time?",
+        "whats is the today's date?",
+        "show me the time and date"
+      ],
+      "responses": [
+        "here is today's date time",
+        "i am getting date time for you",
+        "here is time and date"
+      ],
+      "context_sets": ""
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thanks",
+        "thank you!",
+        "thank you so much",
+        "thanx"
+      ],
+      "responses": [
+        "Happy to help you!",
+        "always welcome",
+        "no problem",
+        "welcome"
+      ],
+      "context_sets": ""
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "name",
+        "what is your name?",
+        "who are you",
+        "who?"
+      ],
+      "responses": [
+        "I am Hello AI Bot, what can i help you?"
+      ],
+      "context_sets": ""
+    },
+    {
+      "tag": "math",
+      "patterns": [
+        "addition",
+        "add the number",
+        "adding numbers",
+        "sum of numbers",
+        "add",
+        "subtraction",
+        "subtraction the number",
+        "sub numbers",
+        "minus of numbers",
+        "sub",
+        "minus",
+        "division",
+        "div the number",
+        "division numbers",
+        "division of numbers",
+        "div",
+        "multiplication",
+        "multiplication the number",
+        "mul numbers",
+        "mul"
+      ],
+      "responses": [
+        "Hey I am performing mathematics operation on values, please wait for result, Thank you!"
+      ],
+      "context_sets": ""
+    }
+  ]
+}
